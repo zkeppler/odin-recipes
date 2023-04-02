@@ -1,0 +1,23 @@
+* {
+    background-color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+    color: maroon;
+    font-family: Helvetica, Times New Roman, serif;
+}
+
+#subrecipe {
+    color: yellow;
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+.para {
+    color: burlywood;
+    font-weight: 600;
+}
+
+.thin {
+    font-weight: 300;
+}
